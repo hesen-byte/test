@@ -1,2 +1,7 @@
 apple apple
+<<<<<<< HEAD
 edit by hesen-byte
+=======
+I dislike apple
+edit by hesen97
+>>>>>>> 718a1c598bfa8758dbd83f8eb89e01ee518ebd10
